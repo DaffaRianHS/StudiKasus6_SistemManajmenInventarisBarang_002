@@ -1,0 +1,22 @@
+[
+    {
+        "barang": "Susu Murni",
+        "stok": "50"
+    },
+    {
+        "barang": "Snack",
+        "stok": "75"
+    },
+    {
+        "barang": "Sabun",
+        "stok": "75"
+    },
+    {
+        "barang": "Mie",
+        "stok": "50"
+    },
+    {
+        "barang": "Roti Tawar",
+        "stok": "100"
+    }
+]
